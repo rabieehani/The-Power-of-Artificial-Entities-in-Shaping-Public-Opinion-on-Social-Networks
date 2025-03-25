@@ -27,11 +27,6 @@ This repository contains the implementation and analysis code for our study on *
    - Main model: `DHPA_ArtificialEntities.nlogo`
    - Experiment setups in `/simulations/`
 
-2. **Python Analysis**:
-   ```bash
-   pip install -r requirements.txt
-   python analyze_results.py --input data/experiment_1.csv
-   ```
 
 ## Experimental Parameters
 | Parameter          | Symbol | Value | Description                          |
